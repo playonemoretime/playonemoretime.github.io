@@ -1,45 +1,25 @@
 ## TERMS OF USE
 ###  TABLE OF CONTENTS:
-A. Agreement
-***
-B. Age Requirement
-***
-C. License to Use Publisher&rsquo;s Apps
-***
-D. Grant of Rights
-***
-E. Publisher&rsquo;s App Functionality
-***
-F. Third-Party Partners
-***
-G. Security
-***
-H. Registration and Passwords
-***
-I. Uninstall/Removal
-***
-J. Consent to Use of Data
-***
-K. Intellectual Property
-***
-L. Copyright/Submissions
-***
-M. Termination
-***
-N. Disclaimer of Warranty
-***
-O. Limitation of Liability
-***
-P. Indemnification
-***
-Q. Export Controls
-***
-R. Government End User Notice
-***
-S. Jurisdictional Issues and Misc.
-***
-T. Supplemental Terms
-***
+> A. Agreement
+> B. Age Requirement
+> C. License to Use Publisher&rsquo;s Apps
+> D. Grant of Rights
+> E. Publisher&rsquo;s App Functionality
+> F. Third-Party Partners
+> G. Security
+> H. Registration and Passwords
+> I. Uninstall/Removal
+> J. Consent to Use of Data
+> K. Intellectual Property
+> L. Copyright/Submissions
+> M. Termination
+> N. Disclaimer of Warranty
+> O. Limitation of Liability
+> P. Indemnification
+> Q. Export Controls
+> R. Government End User Notice
+> S. Jurisdictional Issues and Misc.
+> T. Supplemental Terms
 
 ###  A. AGREEMENT:
 A. This End-User License Agreement (&ldquo;EULA&rdquo;) is a legal agreement between you and Publisher (&ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;) which governs your use of the Publisher&rsquo;s Apps. By installing or otherwise using the Publisher&rsquo;s Apps, you: (a) agree to be bound by the terms and conditions of this EULA, (b) you represent and warrant that you own or control the mobile device in which the Publisher&rsquo;s App will be installed, and (c) you represent and warrant that you have the right, authority and capacity to enter into this EULA and to abide by all its terms and conditions, just as if you had signed it. The terms and conditions of this EULA also apply to any Publisher&rsquo;s App updates, supplements, and services that are not provided under a separate license or other agreement with us. If you do not agree to the terms and conditions of this EULA, do not install or use any Publisher&rsquo;s App. We may amend these terms and conditions from time to time. If the changes include material changes that affect your rights or obligations, we will notify you of the changes by reasonable means. You acknowledge that an in-app message which notifies you of such changes when you open up the Publisher&rsquo;s App shall constitute reasonable means. Your continued use of the Publisher&rsquo;s Apps after we post any amendments to this EULA will signify your acceptance of such amendments. If you do not agree with any amendment, you must discontinue using the Publisher&rsquo;s Apps. Do not use the Publisher&rsquo;s Apps until your questions and concerns have been answered in this document to your satisfaction and you agree to abide by the EULA.
