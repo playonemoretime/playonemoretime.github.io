@@ -1,24 +1,24 @@
 ## TERMS OF USE
 ###  TABLE OF CONTENTS:
-> A. Agreement
-> B. Age Requirement
-> C. License to Use Publisher&rsquo;s Apps
-> D. Grant of Rights
-> E. Publisher&rsquo;s App Functionality
-> F. Third-Party Partners
-> G. Security
-> H. Registration and Passwords
-> I. Uninstall/Removal
-> J. Consent to Use of Data
-> K. Intellectual Property
-> L. Copyright/Submissions
-> M. Termination
-> N. Disclaimer of Warranty
-> O. Limitation of Liability
-> P. Indemnification
-> Q. Export Controls
-> R. Government End User Notice
-> S. Jurisdictional Issues and Misc.
+> A. Agreement<br>
+> B. Age Requirement<br>
+> C. License to Use Publisher&rsquo;s Apps<br>
+> D. Grant of Rights<br>
+> E. Publisher&rsquo;s App Functionality<br>
+> F. Third-Party Partners<br>
+> G. Security<br>
+> H. Registration and Passwords<br>
+> I. Uninstall/Removal<br>
+> J. Consent to Use of Data<br>
+> K. Intellectual Property<br>
+> L. Copyright/Submissions<br>
+> M. Termination<br>
+> N. Disclaimer of Warranty<br>
+> O. Limitation of Liability<br>
+> P. Indemnification<br>
+> Q. Export Controls<br>
+> R. Government End User Notice<br>
+> S. Jurisdictional Issues and Misc.<br>
 > T. Supplemental Terms
 
 ###  A. AGREEMENT:
